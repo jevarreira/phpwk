@@ -1,9 +1,7 @@
 <?php
 /**  
  * File: phpMk Version: 0.1
- * Author: Michael San Martim <michaelsanmartim@gmail.com>
- * Created: Seg 21 Jan 2013 11:34:26 BRST
- * Last Update: Seg 21 Jan 2013 11:34:26 BRST
+ * Author: Jéssica Oliveira Varreira
  * Notes: class php mkhtmltopdf
  *
  * put in your css to not break tables
